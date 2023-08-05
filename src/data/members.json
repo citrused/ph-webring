@@ -40,6 +40,9 @@
   {
     "title": "fizzsea",
     "url": "https://fizzsea.neocities.org/"
+    "feeds": [
+      { "name": Fizzy Sea, "url": "https://fizzsea.neocities.org/feed.xml"}
+    ]
   },
   {
     "title": "leanne ♥",
